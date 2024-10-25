@@ -1,0 +1,11 @@
+**/.ipynb_checkpoints/
+*.csv
+.env
+.devcontainer/
+results/*/
+misc/
+configs/__pycache__/
+libs/__pycache__/
+__pycache__
+notebooks/
+jobs.py
